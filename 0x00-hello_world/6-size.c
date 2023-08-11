@@ -1,3 +1,5 @@
+gcc filename -o size32
+gcc filename -o size64
 #include <stdio.h>
 /**
  * main - Entry point
